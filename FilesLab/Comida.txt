@@ -1,0 +1,2 @@
+Carne asada,3,$10,mesa 6.
+

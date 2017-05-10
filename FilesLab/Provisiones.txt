@@ -1,0 +1,10 @@
+Pollo,20
+Carne,20
+Sopa,20
+Cerveza,20
+Agua,20
+Gaseosa,19
+Helado,20
+Pudin,19
+Chocolate,20
+Carne asada,7
